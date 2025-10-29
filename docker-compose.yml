@@ -45,5 +45,5 @@ services:
 
 networks:
   expen-app-n:
-    driver: bridge
+    
 
